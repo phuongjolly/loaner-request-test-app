@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="Testing_loaner_app" language="en" table="x_cdltd_testing_lo_testing_loaner_app">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Testing_loaner_app</label>
+            <language>en</language>
+            <name>x_cdltd_testing_lo_testing_loaner_app</name>
+            <plural>Testing_loaner_apps</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2023-08-18 22:28:09</sys_created_on>
+            <sys_id>5be8fbe4dcb035107f44ffe195059135</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Testing_loaner_app</sys_name>
+            <sys_package display_value="Testing Loaner App" source="x_cdltd_testing_lo">1298fba4dcb035107f44ffe1950591fa</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Testing Loaner App">1298fba4dcb035107f44ffe1950591fa</sys_scope>
+            <sys_update_name>sys_documentation_x_cdltd_testing_lo_testing_loaner_app__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2023-08-18 22:28:09</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
